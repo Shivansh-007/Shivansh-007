@@ -5,17 +5,19 @@ Hi there, I'm Shivansh
 </h1>
 
 
-Hi, I'm Shivansh , I am python programmer.
-- 🌱 I’m currently learning Python
-- 💬 Ask me about Python
-- 👯 I’m looking to collaborate on Python projects
-- 📫 How to reach me: [Give me a message!](https://github.com/Shivansh-007)
+I'm Shivansh, a class 8th student working primarily with Python and C++!
+
+- Lots of experience in Python :snake:.
+- Right now, I'm diving into the wonderful world of C++.
+- Unrelated, but I also love playing basketball :basketball: and football :football:.
 
 
 
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://www.discord.gg/)
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-252422.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/)
+
+Feel free to check out my pinned projects below.
 
 <hr>
 
