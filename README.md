@@ -14,7 +14,7 @@ I'm Shivansh, a class 8th student working primarily with Python and C++!
 
 
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://www.discord.gg/)
-[![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:)
+[![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:shivansh-007@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-252422.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/)
 
 Feel free to check out my pinned projects below.
