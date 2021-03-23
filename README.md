@@ -5,10 +5,10 @@ Hi there, I'm Shivansh
 </h1>
 
 
-I'm Shivansh, a class 8th student working primarily with Python and C++!
+I'm Shivansh, a class 8th student working primarily with Python and Java!
 
 - Lots of experience in Python :snake:.
-- Right now, I'm diving into the wonderful world of C++.
+- Right now, I'm diving into the wonderful world of Java.
 - Unrelated, but I also love playing basketball :basketball: and football :football:.
 
 
