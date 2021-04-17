@@ -5,7 +5,7 @@ Hi there, I'm Shivansh
 </h1>
 
 
-I'm Shivansh, a class 8th student working primarily with Python and Java!
+I'm Shivansh, a high school student working primarily with Python and Java!
 
 - Lots of experience in Python :snake:.
 - Right now, I'm diving into the wonderful world of Java.
