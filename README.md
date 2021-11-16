@@ -1,14 +1,14 @@
 <h1 align="center">
-<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 Hi there, I'm Shivansh
-<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
 
 
-I'm Shivansh, a high school student working primarily with Python and Java!
+I'm Shivansh, a high school student working primarily with Python, and learning Java and Rust!
 
 - Lots of experience in Python :snake:.
-- Right now, I'm diving into the wonderful world of Java.
+- Right now, I'm diving into the wonderful world of Rust and Java.
 - Unrelated, but I also love playing basketball :basketball: and football :football:.
 
 
